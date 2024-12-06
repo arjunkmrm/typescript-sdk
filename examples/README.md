@@ -8,7 +8,7 @@ This directory contains examples demonstrating how to use the Unroute SDK.
 
    ```bash
    export OPENAI_API_KEY="your-openai-api-key"
-   export E2B_API_KEY="your-e2b-api-key"
+   export EXA_API_KEY="your-exa-api-key"
    ```
 
 2. Install dependencies:
@@ -35,7 +35,8 @@ This directory contains examples demonstrating how to use the Unroute SDK.
 
 A basic example that shows how to:
 
-- Connect to an MCP (e2b in this case)
+- Connect to an MCP (exa in this case)
 - Patch an OpenAI client
 - Have a conversation that uses MCP tools
 - Handle multi-step tool execution
+
